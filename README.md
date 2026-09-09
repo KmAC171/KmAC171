@@ -38,3 +38,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KmAC171&show_icons=true&theme=dark" alt="KmAC171's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmAC171&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
+
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KmAC171&theme=flat&no-frame=true&margin-w=15" alt="KmAC171 GitHub Trophies" />
+  </a>
+</p>
